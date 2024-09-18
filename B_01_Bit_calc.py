@@ -9,15 +9,9 @@ def instructions():
 
     print('''
 Instructions go here. 
-- instruction 1
-- instruction 2
-- etc
+- Type the file type that you want to assess.
+- (For image)type the Width and Height to find out the number of bits in the image.
     ''')
-
-
-# Displays instructions
-def instructions():
-    statement_generator("Instructions", "-")
 
 
 # asks users for file type (integer / image / text / xxx)
