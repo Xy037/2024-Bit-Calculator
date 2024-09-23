@@ -10,7 +10,9 @@ def instructions():
     print('''
 Instructions go here. 
 - Type the file type that you want to assess.
+- Types of files are: Image, Integer, and Text. 
 - (For image)type the Width and Height to find out the number of bits in the image.
+- If you want to exit the program type "xxx".   
     ''')
 
 
